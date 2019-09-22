@@ -1,0 +1,40 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "allure_demo",
+    "children" : [ {
+      "name" : "test_allure",
+      "children" : [ {
+        "children" : [ {
+          "name" : "我是VIP的方法1",
+          "uid" : "45bc8d30978c315c",
+          "parentUid" : "deb0e4db41d29c86df3902e829e4a614",
+          "status" : "passed",
+          "time" : {
+            "start" : 1568187950974,
+            "stop" : 1568187950975,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "我是VIP的方法2",
+          "uid" : "1d8d76538e8f3e8e",
+          "parentUid" : "deb0e4db41d29c86df3902e829e4a614",
+          "status" : "passed",
+          "time" : {
+            "start" : 1568187950979,
+            "stop" : 1568187950979,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "deb0e4db41d29c86df3902e829e4a614"
+      } ],
+      "uid" : "a98e3d2808990aa2820de92da1ed659f"
+    } ],
+    "uid" : "8298fcba9371f75d2c9b842f945ee804"
+  } ]
+}

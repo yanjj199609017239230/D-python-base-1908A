@@ -1,0 +1,153 @@
+{
+  "uid" : "45bc8d30978c315c",
+  "name" : "我是VIP的方法1",
+  "fullName" : "allure_demo.test_allure#test_demo1",
+  "historyId" : "b46d1055a06b478ca1c0372fead23a1f",
+  "time" : {
+    "start" : 1568187950974,
+    "stop" : 1568187950975,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4e0b3edcd1762f8d",
+      "name" : "断言",
+      "source" : "4e0b3edcd1762f8d.txt",
+      "type" : "text/plain",
+      "size" : 29
+    }, {
+      "uid" : "ce1f466f68274688",
+      "name" : "stdout",
+      "source" : "ce1f466f68274688.txt",
+      "type" : "text/plain",
+      "size" : 12
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "模块名1"
+  }, {
+    "name" : "story",
+    "value" : "接口名1"
+  }, {
+    "name" : "parentSuite",
+    "value" : "allure_demo"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190805LNB"
+  }, {
+    "name" : "thread",
+    "value" : "9568-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "allure_demo.test_allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "188aaf71147817b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568187696321,
+        "stop" : 1568187696322,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f828abdd9f0ed3cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568187590380,
+        "stop" : 1568187590381,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3501fb286a3527b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568187066809,
+        "stop" : 1568187066810,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c795cb643bc3c676",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568186949486,
+        "stop" : 1568186949487,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "a3dd0c9c13faba0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568185854537,
+        "stop" : 1568185854538,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "aac6b7089bce8d52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568185743693,
+        "stop" : 1568185743693,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1df6a462bf00ea29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568184459473,
+        "stop" : 1568184459474,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "7f592aabae767390",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568182358012,
+        "stop" : 1568182358012,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45bc8d30978c315c.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

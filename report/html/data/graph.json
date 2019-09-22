@@ -1,0 +1,21 @@
+[ {
+  "uid" : "45bc8d30978c315c",
+  "name" : "我是VIP的方法1",
+  "time" : {
+    "start" : 1568187950974,
+    "stop" : 1568187950975,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d8d76538e8f3e8e",
+  "name" : "我是VIP的方法2",
+  "time" : {
+    "start" : 1568187950979,
+    "stop" : 1568187950979,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

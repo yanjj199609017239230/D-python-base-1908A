@@ -1,0 +1,41 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "模块名1",
+    "children" : [ {
+      "name" : "接口名1",
+      "children" : [ {
+        "name" : "我是VIP的方法1",
+        "uid" : "45bc8d30978c315c",
+        "parentUid" : "de69a823f300dd89e30b2f7ab21be200",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568187950974,
+          "stop" : 1568187950975,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "de69a823f300dd89e30b2f7ab21be200"
+    }, {
+      "name" : "接口名2",
+      "children" : [ {
+        "name" : "我是VIP的方法2",
+        "uid" : "1d8d76538e8f3e8e",
+        "parentUid" : "b95144fcd40bc890c64a89668bbf5330",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568187950979,
+          "stop" : 1568187950979,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b95144fcd40bc890c64a89668bbf5330"
+    } ],
+    "uid" : "2079464317080d54566c51ee9a0a09fb"
+  } ]
+}
